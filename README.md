@@ -7,7 +7,7 @@
 - https://github.com/opentracing-contrib
 
 ### google
-http://opencensus.io 谷歌开源的
+- [Dapper客户端开源版](http://opencensus.io)
 - [Dapper翻译](http://bigbully.github.io/Dapper-translation/)
 - [Dapper](http://research.google.com/pubs/pub36356.html)
 
@@ -22,6 +22,8 @@ http://opencensus.io 谷歌开源的
 - [从zipkin到jaeger](https://eng.uber.com/distributed-tracing/)
 - [jaeger源码分析](https://segmentfault.com/a/1190000012121172)
 - [开放分布式追踪OpenTracing入门与Jaeger实现](https://yq.aliyun.com/articles/514488?spm=a2c4e.11155435.0.0.b4853f9309GtQB)
+- [JAEGERTRACING WITH ELASTICSEARCH STORAGE](https://cinhtau.net/2018/02/02/jaegertracing-with-elasticsearch/)
+- [hawkular转向jaeger](http://www.hawkular.org/blog/2017/04/19/hawkular-apm-jaeger.html)
 
 ### 京东
 - [京东分布式服务跟踪系统-CallGraph](https://mp.weixin.qq.com/s/GT4AYjpnVJhEEe4CYRoVFA)
@@ -71,6 +73,8 @@ http://opencensus.io 谷歌开源的
 - http://www.dynatrace.com/en/index.html
 - https://github.com/javamelody/javamelody
 - https://github.com/stevensouza/automon
+- http://mp.weixin.qq.com/s?__biz=MzU0OTQxNTA4Nw==&mid=2247483683&idx=1&sn=25480e3f4506ee638fc1b21e81e07569&chksm=fbb170e3ccc6f9f577aaa16903de824fc927506882e3b4d3717bce4a2d97f71552db404635a3&mpshare=1&scene=24&srcid=0525LkKcP6MHY8LHOWjgcLTY#rd
+- http://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486749&idx=1&sn=ab3e00bbcc5f8a2b221899e2bcff3697&chksm=96c9bb7da1be326b15754cbeead8bf2bf82653558eafc7565e2b8bd8266b3a560869499bb2fb&mpshare=1&scene=24&srcid=0525G3dSXZLOJAsiBfwAWieT#rd
 
 ### Open Source APM
 - http://diagnoseit.github.io
